@@ -1,30 +1,28 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+---
+### Day N: Month N, Sunday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:
+**Thoughts**:
+**Link(s) to work**:
+1. []()
+---
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: May 17, Sunday
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Added side nav for Cart panel for Lepestock
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts**: I learned about passing `state` between components in React
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Link(s) to work**:
+1. [Commit](https://github.com/maxx-zueff/lepestock/commit/54f0bfa3299cacf0cb4079575a96adc7f1a7302a)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: May 18, Monday
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Added subtotal for Cart panel [github](http://github.com/maxx-zueff/lepestock)
+Completed 22/110 tasks of Basic JavaScript on freecodecamp [github](http://github.com/maxx-zueff/free-code-camp)
 
+### Day 3: May 19, Monday
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: Completed 44/110 tasks of Basic JavaScript on freecodecamp [github](http://github.com/maxx-zueff/free-code-camp)
